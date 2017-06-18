@@ -1,0 +1,10 @@
+PSYC,10/30/2013,12/08/2013,Abnormal Psychology, The use of psychology in the everyday world,35,14
+CSE40241,11/04/2013,12/08/2013,Advanced Application Development for Android,Gain advanced knowledge of the Android platform including issues and techniques along with structuring applications for efficiency and reliability,32,32
+CSE7127,10/30/2013,12/08/2013,Advanced C++ Programming and STL,Learn some of the more advanced features of computer programming using C++ and the Standard Template Library,35,12
+MAT3010,09/23/2013,12/01/2013,Advanced Calculus,  a continuation of Calculus III,30,0
+ENGL1110,09/30/2013,12/08/2013,Composition 1, Introductory course in composistion,30,18
+ENG26037,09/30/2013,12/08/2013,Data Structures and Algorithms,Gain a solid background in data structures and their associated algorithms,32,19
+COM26033,09/30/2013,12/08/2013,Design patterns for Java,Learn how to use design patterns to jump start programming solution,32,16
+PHL2224,09/23/2013,10/27/2013,Eastern Philosophy, Philosophy of the eastern world,35,25
+SWE0191,09/30/2013,12/08/2013,Object Oriented Analysis and Design,Learn how to develop more complex software by applying good analysis and design methodologies,32,32
+WEB4066,09/30/2013,12/08/2013,Web Application Security Essentials,Learn the concepts mechanics and terminology for understanding web application security principles,35,33
